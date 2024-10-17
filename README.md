@@ -1,8 +1,5 @@
 # homework-03-EmployeePayrollTracker
 
-# homework-03
-Second homework assignment
-
 
 ## Description
 Third homework assignment - Employee Payroll Tracker
@@ -44,13 +41,12 @@ Creating a template
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/homework-03-EmployeePayrollTracker/
+https://cfeltes.github.io/homework-03-EmployeePayrollTracker/
 https://github.com/CFeltes/homework-03-EmployeePayrollTracker.git
-git@github.com:CFeltes/homework-01.git
+git@github.com:CFeltes/homework-03-EmployeePayrollTracker.git
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
+![See First Page Screenshot](Screenshot-1-H3.jpg)
+![See Second Page Screenshot](Screenshot-2-H3.jpg)
 
 
 ## Contributing
